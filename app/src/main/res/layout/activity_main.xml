@@ -25,4 +25,11 @@
         android:layout_weight="1"
         android:background="#2196F3"
         android:text="Bienvenido" />
+
+    <RadioButton
+        android:id="@+id/rbYes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Marcar" />
 </LinearLayout>
